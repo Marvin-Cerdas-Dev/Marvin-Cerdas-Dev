@@ -1,3 +1,10 @@
+<p align="center">
+ 
+</p>
+<p align="center">
+  <img src="https://github.com/Marvin-Cerdas-Dev/Marvin-Cerdas-Dev/blob/main/images/personal-logo.png" alt="Marvin Cerdas" />
+</p>
+
 # Marvin Cerdas — @Marvin-Cerdas-Dev
 
 🔭 **I am a Software Engineer** with a passion for creating solutions that simplify everyday tasks and improve workflows.
