@@ -9,7 +9,7 @@
 
 🔭 **I am a Software Engineer** with a passion for creating solutions that simplify everyday tasks and improve workflows.
 
-🌱 **Currently learning**: Mobile development with Flutter and Dart, as well as Full Stack technologies like HTML, CSS, JavaScript, React JS, Angular, NodeJS, and MongoDB.
+🌱 **Currently learning**: Full Stack technologies like React JS, Angular, NodeJS, and MongoDB.
 
 📝 **Interested in**: Projects that combine backend and frontend development, automation, and innovative tech solutions that address real-world challenges.
 
