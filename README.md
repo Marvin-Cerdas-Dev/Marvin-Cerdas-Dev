@@ -9,7 +9,7 @@
 <strong>Software Engineer</strong> with 4+ years of experience specializing in systems engineering, web development, and enterprise software solutions. I have extensive experience in custom software development, process automation, and technical consulting across SaaS and on-premise environments.
 </p>
 
-- 🌱 Currently expanding skills in **Full-Stack Development** (React, Angular, Node.js, MongoDB) and **IA Generativa – Del Aprendizaje a la Acción**
+- 🌱 Currently expanding skills in **Full-Stack Development** (React, Angular, Node.js, MongoDB) and **Generative AI**
 - 💻 Experienced in **proprietary language development**, **API integration**, and **enterprise system deployment**
 - 🚀 Specialized in **data processing automation** and **business intelligence solutions**
 - 🏗️ **Azure Fundamentals Certified** with cloud deployment experience
